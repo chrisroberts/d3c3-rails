@@ -37,7 +37,7 @@ View helpers for building graphs:
       data: {
         columns: [
           ['one', 1, 2, 3, 1],
-          ['two' 3, 6, 1, 4]
+          ['two', 3, 6, 1, 4]
         ]
       }
     )
